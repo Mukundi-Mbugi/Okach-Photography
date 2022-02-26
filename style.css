@@ -1,0 +1,20 @@
+.img-thumbnail{
+    height: 50vh;
+    width: 50vh;
+}
+#logo{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-left: 500px;
+    text-align: center;
+    text-size-adjust: inherit;   
+}
+body{
+    background-color: aquamarine;
+}
